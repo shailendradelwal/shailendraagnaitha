@@ -28,15 +28,15 @@ This is a Python module which can that can convert a paragraph of spoken english
 	>>
 	[IN]:Enter Your paragraph of spoken english:
 	
-	Hi! My name is Bruce. I am a Programmer. I try to wake up before 6 A M. I always come home after 7 P M. I earn hundred 		dollars per day. My contact number contains double 5, quadruple 8, single 9 and triple 4. Recently, My weight got double 	 the weight of my friend whom I call C M. 
+	Hi! My name is Shailendra. I am a Programmer. I try to wake up before 7  A M. I always come home after 7 P M. I earn hundred 		dollars per day. My contact number contains double 5, quadruple 8, single 9 and triple 4. Recently, My weight got double 	 the weight of my friend whom I call C M. 
 	
 	[OUT]:The input Spoken English Paragraph: 
 	
-	" Hi! My name is Bruce. I am a Programmer. I try to wake up before 6 A M. I always come home after 7 P M. I earn hundred 	  dollars per day. My contact number contains double 5, quadruple 8, single 9 and triple 4. Recently, My weight got double    	       the weight of my friend whom I call C M. "
+	" Hi! My name is Shailendra. I am a Programmer. I try to wake up before 7 A M. I always come home after 7 P M. I earn hundred 	  dollars per day. My contact number contains double 5, quadruple 8, single 9 and triple 4. Recently, My weight got double    	       the weight of my friend whom I call C M. "
 		
 	 Converted Written English Paragraph: 
 	 
-	 " Hi! My name is Bruce. I am a Programmer. I try to wake up before 6 AM. I always come home after 7 PM. I earn $100 per 	    day. My contact number contains 55, 8888, 9 and 444. Recently, My weight got double the weight of my friend whom I      	       call CM. "
+	 " Hi! My name is Shailendra. I am a Programmer. I try to wake up before 7 AM. I always come home after 7 PM. I earn $100 per 	    day. My contact number contains 55, 8888, 9 and 444. Recently, My weight got double the weight of my friend whom I      	       call CM. "
 ```
 	
 	
@@ -47,15 +47,15 @@ This is a Python module which can that can convert a paragraph of spoken english
 	>> sp2wr.convert_sp_to_wr()
 
 	[IN]:Enter Your paragraph of spoken english:
-	Hi! My name is Bruce.I am a Programmer.I try to wake up before 6 A M.I always come home after 7 P M.I earn hundred 		dollars per day.My contact  number contains double 5,quadruple 8, single 9 and triple 4.Recently, My weight got double 		the weight of my friend whom I call C M.
+	Hi! My name is Shailendra.I am a Programmer.I try to wake up before 7 A M.I always come home after 7 P M.I earn hundred 		dollars per day.My contact  number contains double 5,quadruple 8, single 9 and triple 4.Recently, My weight got double 		the weight of my friend whom I call C M.
 	
 	[OUT]:The input Spoken English Paragraph: 
 
-	" Hi! My name is Bruce.I am a Programmer.I try to wake up before 6 A M.I always come home after 7 P M.I earn hundred 		dollars per day.My contact  numbe  number contains double 5,quadruple 8, single 9 and triple 4.Recently, My weight got 		double the weight of my friend whom I call C M."
+	" Hi! My name is Shailendra.I am a Programmer.I try to wake up before 7 A M.I always come home after 7 P M.I earn hundred 		dollars per day.My contact  numbe  number contains double 5,quadruple 8, single 9 and triple 4.Recently, My weight got 		double the weight of my friend whom I call C M."
 
 	Converted Written English Paragraph: 
 
-	" Hi! My name is Bruce.I am a Programmer.I try to wake up before 6 A M.I always come home after 7 P M.I earn $100 per 
+	" Hi! My name is Shailendra.I am a Programmer.I try to wake up before 7 A M.I always come home after 7 P M.I earn $100 per 
 	day.My contact numbe number contains 5,quadruple5,quadruple 8, 9 and 4.Recently4.Recently4.Recently, My weight got 		the weight of my friend whom I call CM."
 
 
@@ -91,8 +91,6 @@ This is a Python module which can that can convert a paragraph of spoken english
 
 
 MIT License
-
-Copyright (c) 2019 Vishal Dhiman  [Github](https://github.com/cyberdhiman/Spoken-To-Written-English)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
